@@ -9,7 +9,7 @@ def solver(top_hints, left_hints):
 if __name__ == '__main__':
     """ 
     Sample problem:
-                1      
+              1        
           3 0 1 2 2
         -----------
       0 | 0 0 0 0 0
