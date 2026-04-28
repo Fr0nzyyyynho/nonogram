@@ -7,7 +7,8 @@ def solver(top_hints, left_hints):
     return result
 
 if __name__ == '__main__':
-    """ 
+    """
+    Jarik krutoy
     Sample problem:
               1        
           3 0 1 2 2
